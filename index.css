@@ -1,0 +1,68 @@
+.logo-image{
+    height: 60px;
+    width: 500px ;
+}
+
+.text-heading{
+    color:rgb(0, 2, 128);
+}
+.button{
+    background-color:#555;
+    font-size:16px ;
+    padding: 20px;
+    color : white;
+    border-radius: 10px;
+    margin: 5px;
+}
+.text-btn{
+    background-color: green;
+}
+.price{
+    color: green  !important;
+}
+
+.img-area{
+     background-image: url("./Logo/green.png");
+     width: 450px;
+     height: 450px;
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     display: block;
+     margin-left: 250px;
+}
+.nav-item{
+    margin-right: 50px;
+    
+}
+.img{
+    height: 100px;
+    width:100px;
+    margin-top: 50px;
+}
+.shadow-sm
+{
+    height: 130px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.perfect{
+    margin-top: -40px;
+}
+.perfect{
+    height: 70px;
+    border-radius: 10px;
+    margin-top: -30px;
+    
+}
+.img-logo img{
+    height:300px;
+    width: 550px;
+    margin-top:60px ;
+
+}
+.woman-jacket-btn{
+    background-color: rgb(73, 61, 139);
+    margin-left: 100px;
+    color: white;
+}
